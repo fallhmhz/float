@@ -135,5 +135,5 @@ export const WIDGET_CATALOG: WidgetCatalogEntry[] = [
   { type: "profileCard", name: "自由 · 主页名片", desc: "背景图+白卡+悬浮头像的资料名片", size: "4x4", track: "freestyle" },
 ];
 
-export const GRID_ROWS = 5;
+export const GRID_ROWS = 6;
 export const GRID_COLS = 4;
